@@ -23,16 +23,14 @@ redirect_from:
 I am currently working on my graduation thesis titled "Hyperspectral Image Object Detection Based on Double Sparse Constraints", and I am also learning some knowledge in deep learning.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 I have a personal homepage. 
 
 # 📝 Publications 
 
 I have not published any academic papers,I hope I would publish an EI conference paper.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.9-2024.7* I have received some awards before. 
 
 # 📖 Educations
 - *2020.09 - 2024.07 (now)*, B.S.College of Information and Communication Engineering, Harbin Engineering University.
